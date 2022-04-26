@@ -1,9 +1,8 @@
 {
   "name": "open-github-veter",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
-    "@stackblitz/sdk": "^1.4.0"
+    "@stackblitz/sdk": "^1.6.0"
   }
 }
-
