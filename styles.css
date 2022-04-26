@@ -1,0 +1,14 @@
+body {
+  font-family: Lato;
+}
+
+button {
+  font-size:16px;
+  margin-bottom:20px;
+}
+
+iframe {
+  border: 2px solid #0006;
+}
+
+#myDiv {border: 1px solid #0002;}
